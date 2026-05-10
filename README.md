@@ -1,16 +1,31 @@
-## Hi there 👋
+# Abdulaziz Almalahi
 
-<!--
-**Abdulaziznasser1/Abdulaziznasser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Graduate passionate about Artificial Intelligence, Data Analytics, and Business-Focused AI Solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Power BI
+- Data Analysis
+- Git & GitHub
+- AI Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Healthcare Analytics Dashboard
+Power BI dashboard analyzing healthcare KPIs and operational insights.
+
+### AI Customer Support Chatbot
+AI chatbot concept for automating customer support and reservations.
+
+### Student Performance Prediction
+Machine learning model predicting student performance patterns.
+
+## Certifications
+- SDAIA AI Applied Bootcamp
+- AWS AI & ML Scholars
+- Claude 101
+- IBM Data Analysis
+
+## Contact
+- LinkedIn: https://linkedin.com/in/abdulaziz-almalahi
+- Email: abdulazizmlahi@hotmail.com
